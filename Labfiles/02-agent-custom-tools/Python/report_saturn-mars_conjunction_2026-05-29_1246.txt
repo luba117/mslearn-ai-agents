@@ -1,0 +1,23 @@
+======================================
+  CONTOSO OBSERVATORIES - SESSION REPORT
+======================================
+Date:           2026-05-29 12:46
+Observer:       Bellows College
+Event:          Saturn-Mars Conjunction
+Location:       South America
+
+NEXT VISIBLE EVENT
+  Event:        Saturn-Mars Conjunction
+  Date:         07-10
+
+TELESCOPE BOOKING
+  Tier:         premium
+  Hours:        5
+  Hourly Rate:  $300.00
+  Priority:     normal
+  Multiplier:   1.25x
+
+COST SUMMARY
+  Base Cost:    $1500.00
+  Total Cost:   $1875.00
+======================================
