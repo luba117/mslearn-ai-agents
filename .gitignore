@@ -73,3 +73,4 @@ Thumbs.db
 # Output files
 analysis_results.json
 output.txt
+Labfiles/04-integrate-agent-with-foundry-iq/Python/.env
